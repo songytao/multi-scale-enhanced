@@ -1,0 +1,12 @@
+tensorboardX
+torch
+thop
+dataloaders
+numpy
+pandas
+tqdm
+yacs
+opencv-python
+torchvision
+scikit-learn
+scipy
